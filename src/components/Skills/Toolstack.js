@@ -5,7 +5,7 @@ import {
   SiPostman,
   SiMacos,
   SiGit,
-  SiApachekafka
+  SiApachekafka,SiJenkins,SiDocker,SiKubernetes,SiSlack
 } from "react-icons/si";
 
 function Toolstack() {
@@ -25,6 +25,19 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiApachekafka/>
+
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJenkins />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDocker />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiKubernetes />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSlack />
       </Col>
     </Row>
   );

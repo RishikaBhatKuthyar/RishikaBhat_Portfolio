@@ -3,6 +3,8 @@ import { Col, Row } from "react-bootstrap";
 import { DiJavascript1, DiReact, DiNodejs, DiMongodb, DiPython, DiJava, DiHtml5 } from "react-icons/di";
 import { SiMysql } from "react-icons/si";
 import { GiAbstract050 } from "react-icons/gi"; 
+import { SiSpring, SiPostman, SiSwagger } from "react-icons/si";
+
 
 
 function Techstack() {
@@ -46,6 +48,11 @@ function Techstack() {
         <DiMongodb />
         {/* <p className="tech-names">MongoDB</p> */}
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSpring />
+        {/* <p className="tech-names">Spring Boot</p> */}
+      </Col>
+
     </Row>
   );
 }
