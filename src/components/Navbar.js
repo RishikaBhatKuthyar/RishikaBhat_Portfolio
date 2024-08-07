@@ -94,10 +94,10 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/certifications"
+                to="/education"
                 onClick={() => updateExpanded(false)}
               >
-                <MdSchool style={{ marginBottom: "2px" }} /> Certifications
+                <MdSchool style={{ marginBottom: "2px" }} /> Education
               </Nav.Link>
             </Nav.Item>
 
