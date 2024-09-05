@@ -7,6 +7,7 @@ import hospitality from "../../Assets/hospitality.png";
 import hospital from "../../Assets/hospital.png";
 import bookhub from "../../Assets/bookhub.png";
 import gatepass from "../../Assets/gatepass.png";
+import terraform from "../../Assets/terraform-aws.png";
 import user from "../../Assets/user.png";
 
 function Projects() {
@@ -66,6 +67,16 @@ function Projects() {
               title="Advanced Security System using Face Detection"
               description="Utilizing advanced facial recognition technology, the system enhances security and efficiency by enabling seamless management of student and guest entry and exit records. This solution replaces traditional paper-based logbooks, offering a user-friendly and secure way to handle gate passes through mobile and web platforms."
               ghLink="https://ijsrset.com/home/issue/view/article.php?id=IJSRSET2293164"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={terraform}
+              isBlog={false}
+              title="Terraform Infrastructure Automation"
+              description="Automated the setup of VPCs, subnets, and cloud resources using Terraform, with a focus on creating reusable modules and managing resource dependencies."
+              ghLink="https://github.com/RishikaBhatKuthyar/terraform-aws-rishika-test-vpc"
             />
           </Col>
         </Row>

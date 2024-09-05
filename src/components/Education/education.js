@@ -16,8 +16,8 @@ function Education() {
             <h3>Northeastern University, Boston, MA</h3>
             <h4>January 2024 - Expected Dec 2025</h4>
             <ul>
-              <li>Relevant Courses: Application Engineering Development, Web Design, Object-Oriented Programming</li>
-              <li>GPA: 3.85/4.0</li>
+              <li>Relevant Courses: Application Engineering Development, Web Design, Program Structures and Algorithms, Object-Oriented Programming</li>
+              <li>GPA: 3.89/4.0</li>
             </ul>
           </Col>
         </Row>
@@ -29,8 +29,8 @@ function Education() {
             <h3>Sreenidhi Institute of Science and Technology, Hyderabad, India</h3>
             <h4>June 2018 - June 2022</h4>
             <ul>
-              <li>Relevant Courses: Data Structures & Algorithms, Agile, SDLC</li>
-              <li>Graduation: June 2022</li>
+              <li>Relevant Courses: Data Structures & Algorithms, Agile Methodologies, Software Development, Database Management</li>
+              <li>GPA: 7.5/10</li>
             </ul>
           </Col>
         </Row>

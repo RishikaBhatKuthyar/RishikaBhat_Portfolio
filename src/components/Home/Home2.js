@@ -18,14 +18,18 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am Rishika Bhat, an Information Systems student at Northeastern University with a solid background in IT from the Sreenidhi Institute of Science and Technology, Hyderabad. Previously, I've held significant roles at Innova Solutions as a Full Stack Developer and Techimax as a Software Developer Intern. My expertise lies in Java, Python, SpringBoot, and React JS.
-              <br />
-              <br />
-              I'm passionate about developing innovative web technologies and products, especially in areas related to <span className="purple">Software Developement.</span>
-              <br />
-              <br />
-              I'm always eager to tackle new challenges and contribute to projects that not only enhance operational efficiencies but also improve user experiences.
-            </p>
+  Hi, I’m Rishika Bhat, a Master’s student in Information Systems at Northeastern University. 🎓<br />
+  With a background in Information Technology from Sreenidhi Institute of Science and Technology, Hyderabad, I’ve built a solid foundation in software development, particularly in Java, Python, React, and SpringBoot. 💻🚀<br /><br />
+  
+  🏢⚙️ My professional experience includes working as a Full Stack Developer at Innova Solutions, where I developed and optimized systems to manage large-scale employee data and streamline real-time data processing. <br />
+  ☁️🌐 Additionally, as a Software Developer Intern at Techimax, I created dynamic web applications, enhanced testing processes, and leveraged cloud technologies to boost system performance.<br /><br />
+  
+  I'm passionate about creating innovative tech solutions that solve real-world problems and enhance user experiences. 💡✨<br />
+  I thrive on learning new tools, tackling challenges, and continuously improving my skills with each project. 🔧📚<br /><br />
+  
+  Outside of work, you’ll find me exploring new places 🌍, trekking 🥾, socializing 👥, practicing yoga 🧘‍♀️, or cooking 🧑‍🍳.<br />
+  I’m always open to connecting with others in the tech world and sharing ideas—feel free to reach out! 🤝
+</p>
           </Col>
           <Col md={4} className="neu">
               <img src={neu} className="img-fluid" alt="neu" />
